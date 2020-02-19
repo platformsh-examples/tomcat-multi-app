@@ -1,4 +1,4 @@
-# Tomcat Codehaus Cargo template for Platform.sh
+# Tomcat multi-app template for Platform.sh
 
 The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
 
@@ -23,3 +23,4 @@ The following files and additions make the framework work.  If using this projec
 * [Apache Tomcat](http://tomcat.apache.org/)
 * [Java at Platform.sh](https://docs.platform.sh/languages/java.html)
 * [Codehaus Cargo](https://codehaus-cargo.github.io/cargo/Home.html)
+* [Platform.sh Multi-app]https://docs.platform.sh/configuration/app/multi-app.html 
