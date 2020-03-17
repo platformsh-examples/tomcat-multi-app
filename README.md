@@ -23,4 +23,4 @@ The following files and additions make the framework work.  If using this projec
 * [Apache Tomcat](http://tomcat.apache.org/)
 * [Java at Platform.sh](https://docs.platform.sh/languages/java.html)
 * [Codehaus Cargo](https://codehaus-cargo.github.io/cargo/Home.html)
-* [Platform.sh Multi-app]https://docs.platform.sh/configuration/app/multi-app.html 
+* [Platform.sh Multi-app](https://docs.platform.sh/configuration/app/multi-app.html)
