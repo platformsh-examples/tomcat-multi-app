@@ -9,6 +9,6 @@ public class HelloWorldServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
-        resp.getWriter().println("Hello World from Platform.sh, App2");
+        resp.getWriter().println("Hello World from Platform.sh App2");
     }
 }
